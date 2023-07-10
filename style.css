@@ -80,6 +80,8 @@
     display: flex;
     justify-content: space-around;
     text-align: center;
+    background-color: antiquewhite;
+    margin-bottom: 30px;
 }
 .about-title{
     text-align: center;
@@ -114,4 +116,26 @@
 }
 .box-description{
     padding: 5px;
+}
+.footer-container{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(12, 15, 12);
+    text-align: center;
+    color: azure;
+    margin-top: 50px;
+}
+.footer-content{
+    list-style: none;
+    text-align: initial;
+    margin-top: 110px;
+    margin-bottom: 80px;
+}
+.footer-heading{
+    margin-bottom: 10px;
+}
+.copy{
+    text-align: center;
+    background-color:rgb(12, 15, 12);
+    color: azure;
 }
